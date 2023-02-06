@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Bryce Schneider's super cool website
 	</h1>
 
 	<h2>
